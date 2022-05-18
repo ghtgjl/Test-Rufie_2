@@ -5,7 +5,7 @@
 
 
 *Скриншоты кода* ![image](https://user-images.githubusercontent.com/104721684/169061695-42a5e8d4-4b30-406b-b97d-a3cd2e205235.png)
-[image](https://user-images.githubusercontent.com/104721684/169061873-66b23835-779d-4764-af2b-0ddd5e64370f.png)
+![image](https://user-images.githubusercontent.com/104721684/169061873-66b23835-779d-4764-af2b-0ddd5e64370f.png)
 *Скриншот из самого приложения*![image](https://user-images.githubusercontent.com/104721684/169061957-f7cb94a4-5005-4c4a-9810-216d2d081521.png)
 
 
